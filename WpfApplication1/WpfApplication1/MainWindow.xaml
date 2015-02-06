@@ -2,8 +2,8 @@
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        <Label Content="Biels is Choco" HorizontalAlignment="Left" Margin="33,107,0,0" VerticalAlignment="Top" Height="87" Width="383" FontSize="48"/>
+    <Grid OpacityMask="Red" Background="Green">
+        <Label Content="Kenny suckt de ballen" HorizontalAlignment="Left" Margin="10,122,0,0" VerticalAlignment="Top" Height="87" Width="497" FontSize="48" Background="Pink"/>
 
     </Grid>
 </Window>
